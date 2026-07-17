@@ -1,6 +1,6 @@
 # For Pulkit_Normal Export  BFS_V5_Draft 15_Faceswap Inpainting with using uploaded mask only, in image mask nodes removed _140726_Workflow (2)
 ComfyUI workflow Dockerized via [comfyui-wizard](https://comfy.getrunpod.io).
-Submission: https://comfy.getrunpod.io/dashboard/submissions/kd75ysy9952sdf02pwa3w89snn8apsbb
+Submission: https://comfy.getrunpod.io/dashboard/submissions/kd77qc9rx1x9v64atwnpjmk71d8an5sr
 ## Build it yourself
 ```bash
 docker build -t my-comfy-workflow .
